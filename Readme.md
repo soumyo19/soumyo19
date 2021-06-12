@@ -26,7 +26,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Manikantaraavi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="39" width="209" alt="Manikantaraavi" /></a></p><br><br>
 
-![GitHub metrics](https://metrics.lecoq.io/Manikantaraavi)  
+## Metrics
+![Metrics](https://github.com/manikantaraavi/manikantaraavi/blob/master/github-metrics.svg)  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikantaraavi&show_icons=true&locale=en&layout=compact" alt="manikantaraavi" /></p>
 
