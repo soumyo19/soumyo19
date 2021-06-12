@@ -26,27 +26,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Manikantaraavi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="39" width="209" alt="Manikantaraavi" /></a></p><br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   ![GitHub metrics](https://metrics.lecoq.io/Manikantaraavi)  
+![GitHub metrics](https://metrics.lecoq.io/Manikantaraavi)  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikantaraavi&show_icons=true&locale=en&layout=compact" alt="manikantaraavi" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manikantaraavi&show_icons=true&locale=en" alt="manikantaraavi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=manikantaraavi&show_icons=true&locale=en" alt="manikantaraavi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikantaraavi&" alt="manikantaraavi" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manikantaraavi&" alt="manikantaraavi" /></p>
