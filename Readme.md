@@ -27,7 +27,7 @@
 <p><a href="https://www.buymeacoffee.com/Manikantaraavi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="39" width="209" alt="Manikantaraavi" /></a></p><br><br>
 
 ## Metrics
-![Metrics](https://github.com/manikantaraavi/manikantaraavi/blob/master/github-metrics.svg)  
+![Metrics](https://github.com/manikantaraavi/manikantaraavi/blob/main/github-metrics.svg)  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikantaraavi&show_icons=true&locale=en&layout=compact" alt="manikantaraavi" /></p>
 
