@@ -4,6 +4,8 @@
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+ <img align="right" alt="GIF" src="https://github.com/manikantaraavi/manikantaraavi/blob/main/code.gif?raw=true" width="500" height="320" />
+ 
 - 🔭 I’m currently working on **Android devlopment**
 
 - 👯 I’m looking to collaborate on **Android projects**
@@ -11,6 +13,8 @@
 - 🤝 I’m looking for help with **Learning new stuff**
 
 - 📫 How to reach me **[Telegram - @AlwaysAngry](https://t.me/AlwaysAngry)**
+
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantaraavi&label=Profile%20views&color=0e75b6&style=flat" alt="manikantaraavi" /> </p>
 
