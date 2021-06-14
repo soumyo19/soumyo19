@@ -14,6 +14,9 @@
 
 - 📫 How to reach me **[Telegram - @AlwaysAngry](https://t.me/AlwaysAngry)**
 
+## Spotify Playing🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ss08natcwrn2x1jw8mdf6mqdk&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ss08natcwrn2x1jw8mdf6mqdk&redirect=true)
+
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantaraavi&label=Profile%20views&color=0e75b6&style=flat" alt="manikantaraavi" /> </p>
