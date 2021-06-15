@@ -15,7 +15,7 @@
 - 📫 How to reach me **[Telegram - @AlwaysAngry](https://t.me/AlwaysAngry)**
 
 ## Spotify Playing🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ss08natcwrn2x1jw8mdf6mqdk&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ss08natcwrn2x1jw8mdf6mqdk&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rcoawotwtwdsv2iywgnkum42pe&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31rcoawotwtwdsv2iywgnkum42pe&redirect=true)
 
  
 
