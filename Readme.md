@@ -13,6 +13,9 @@
 - 🤝 I’m looking for help with **Learning new stuff**
 
 - 📫 How to reach me **[Telegram - @AlwaysAngry](https://t.me/AlwaysAngry)**
+- 👋 I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+
+
 
 ## Spotify Playing🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rcoawotwtwdsv2iywgnkum42pe&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31rcoawotwtwdsv2iywgnkum42pe&redirect=true)
