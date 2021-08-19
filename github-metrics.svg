@@ -1548,16 +1548,29 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 27 edited files from 15 commits over last 6 days
+            estimation from 33 edited files from 20 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.0948275862069" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="449.0948275862069" y="0" width="10.905172413793103" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Makefile
+                    </div>
+                            <small>
+                                <div>453 bytes</div>
+                                <div>97.63%</div>
+                            </small>
+                        </div>
+                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -1566,11 +1579,9 @@
                     </div>
                             <small>
                                 <div>11 bytes</div>
-                                <div>100%</div>
+                                <div>2.37%</div>
                             </small>
                         </div>
-                    </section>
-                    <section>
                     </section>
                 </div>
             </section>
@@ -3612,7 +3623,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3638,7 +3649,7 @@
                   Great forker
                   
                 </div>
-                                <div class="text">Forked 8 public repositories</div>
+                                <div class="text">Forked 9 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3651,7 +3662,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="121.68299052622402 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="121.69322988687532 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3687,7 +3698,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.73684210526316 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.89473684210526 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3713,11 +3724,11 @@
                   Developer
                   
                     <span class="gh">
-                      ranked 2.98m out of 75m users
+                      ranked 2.73m out of 75m users
                     </span>
                   
                 </div>
-                                <div class="text">Published 12 public repositories</div>
+                                <div class="text">Published 13 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3896,7 +3907,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19/08/2021, 12:03  with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 19/08/2021, 13:12  with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
