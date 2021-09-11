@@ -1615,9 +1615,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.7386363636364" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="390.7386363636364" y="0" width="50.96590909090909" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="441.7045454545455" y="0" width="18.295454545454547" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="372.3021582733813" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="372.3021582733813" y="0" width="64.53237410071942" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="436.8345323741007" y="0" width="23.16546762589928" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1627,8 +1627,8 @@
                       Makefile
                     </div>
                             <small>
-                                <div>598 bytes</div>
-                                <div>84.94%</div>
+                                <div>450 bytes</div>
+                                <div>80.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1638,7 +1638,7 @@
                     </div>
                             <small>
                                 <div>28 bytes</div>
-                                <div>3.98%</div>
+                                <div>5.04%</div>
                             </small>
                         </div>
                     </section>
@@ -1650,7 +1650,7 @@
                     </div>
                             <small>
                                 <div>78 bytes</div>
-                                <div>11.08%</div>
+                                <div>14.03%</div>
                             </small>
                         </div>
                     </section>
@@ -3789,7 +3789,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.48028543965626 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.48675654466325 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4029,7 +4029,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11/09/2021, 02:18  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 11/09/2021, 03:01  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
