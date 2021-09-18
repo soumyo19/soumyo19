@@ -1608,15 +1608,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 44 edited files from 34 commits over last 7 days
+            estimation from 45 edited files from 34 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.10526315789474" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="272.10526315789474" y="0" width="187.89473684210526" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.27272727272725" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="282.27272727272725" y="0" width="177.72727272727272" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1626,8 +1626,8 @@
                       Shell
                     </div>
                             <small>
-                                <div>1.03 kB</div>
-                                <div>59.15%</div>
+                                <div>1.13 kB</div>
+                                <div>61.36%</div>
                             </small>
                         </div>
                     </section>
@@ -1639,7 +1639,7 @@
                     </div>
                             <small>
                                 <div>714 bytes</div>
-                                <div>40.85%</div>
+                                <div>38.64%</div>
                             </small>
                         </div>
                     </section>
@@ -3816,7 +3816,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="128.14121745188038 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="128.14996280932903 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4022,7 +4022,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18/09/2021, 22:02  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 18/09/2021, 23:01  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
