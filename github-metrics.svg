@@ -1787,7 +1787,7 @@
                       Shell
                     </div>
                             <small>
-                                <div>206 bytes</div>
+                                <div>130 bytes</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -4276,7 +4276,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2021, 02:20:38  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 29 Nov 2021, 03:02:28  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
