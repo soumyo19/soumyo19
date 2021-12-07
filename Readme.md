@@ -13,7 +13,7 @@
 - 🤝 I’m looking for help with **Learning New Stuff**
 
 - 📫 How to reach me **[Telegram - @soumyo19](https://t.me/soumyo19)**
-- 👋 I’m *currently* **studying** 😴 or *working* on my **fixing** 👨‍💻
+- 👋 I’m *currently* **studying** 😴 or *working* on my **Computer** 👨‍💻
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantaraavi&label=Profile%20views&color=0e75b6&style=flat" alt="manikantaraavi" /> </p>
