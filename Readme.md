@@ -4,7 +4,7 @@
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
- <img align="right" alt="GIF" src="https://github.com/manikantaraavi/manikantaraavi/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/soumyo19/soumyo19/blob/main/code.gif?raw=true" width="500" height="320" />
  
 - 🔭 I’m currently working on **Android development**
 
