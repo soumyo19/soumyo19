@@ -18,9 +18,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantaraavi&label=Profile%20views&color=0e75b6&style=flat" alt="manikantaraavi" /> </p>
 
-## Metrics
-![Metrics](https://github.com/soumyo19/soumyo19/blob/main/github-metrics.svg)  
-
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyo19&show_icons=true&theme=dark)
 
