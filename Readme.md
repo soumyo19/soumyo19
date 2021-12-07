@@ -16,7 +16,7 @@
 - 👋 I’m *currently* **studying** 😴 or *working* on my **Computer** 👨‍💻
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantaraavi&label=Profile%20views&color=0e75b6&style=flat" alt="manikantaraavi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyo19&label=Profile%20views&color=0e75b6&style=flat" alt="manikantaraavi" /> </p>
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyo19&show_icons=true&theme=dark)
