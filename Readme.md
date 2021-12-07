@@ -1,4 +1,4 @@
-<h1 align="center">Hieeeee! 👋, I'm Fahmid Islam Soumyo</h1>
+<h1 align="center">Hieeeee! 👋, I'm Fahmid Islam Soumya</h1>
 <h3 align="center">And I am interested in learning new things <3 </h3>
 
 ## Trophy
