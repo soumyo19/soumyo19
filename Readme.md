@@ -1,9 +1,6 @@
 <h1 align="center">Hieeeee! 👋, I'm Fahmid Islam Soumya</h1>
 <h3 align="center">And I am interested in learning new things <3 </h3>
 
-## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=soumyo19&theme=darkhub)](https://github.com/soumyo19/github-profile-trophy)
-
  <img align="right" alt="GIF" src="https://github.com/soumyo19/soumyo19/blob/main/code.gif?raw=true" width="500" height="320" />
  
 - 🔭 I’m currently working on **Android development**
