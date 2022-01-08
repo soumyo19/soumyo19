@@ -3,11 +3,11 @@
 
  <img align="right" alt="GIF" src="https://github.com/soumyo19/soumyo19/blob/main/code.gif?raw=true" width="500" height="320" />
  
-- 🔭 I’m currently working on **Android development**
+- 🔭 I’m *doing* **Android development** in **Free Time**
 
 - 😽 I’m looking to collaborate on **Android related projects**
 
-- 🤝🏼 I’m looking for help with **Learning New Stuff**
+- 🤝🏼 I’m looking for help with **App/ROM  Development**
 
 - 📫 How to reach me **[Telegram - @soumyo19](https://t.me/soumyo19)**
 
