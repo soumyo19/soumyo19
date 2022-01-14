@@ -16,12 +16,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyo19&label=Profile%20views&color=0e75b6&style=flat" alt="soumyo19" /> </p>
 
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyo19&show_icons=true&theme=dark)
-
-## Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soumyo19&theme=dark)](https://git.io/streak-stats)
-
 ## Languages
 <a href="#" onclick="return false;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyo19&theme=dark&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=5" />
