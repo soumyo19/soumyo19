@@ -16,8 +16,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyo19&label=Profile%20views&color=0e75b6&style=flat" alt="soumyo19" /> </p>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=soumyo19&theme=cobalt">
-
 ## Languages
 <a href="#" onclick="return false;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyo19&theme=dark&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=5" />
