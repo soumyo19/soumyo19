@@ -1,11 +1,11 @@
-<h1 align="center"> hellow <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Fahmid Islam Soumya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
+<h1 align="center"> hellooooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Call me Soumyo! :D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 <h3 align="center"> And am interested in learning new things & Explore New Stuff 😇 </h3>
 
  <img align="right" alt="GIF" src="https://github.com/soumyo19/soumyo19/blob/main/code.gif?raw=true" width="500" height="320" />
  
 - 🔭 I’m *doing* **Android development** in **Free Time**
 
-- 😽 I’m looking to collaborate on **Android related projects**
+- 😽 I’m looking to collaborate on **Android Related Projects**
 
 - 🤝🏼 I’m looking for help with **App/ROM  Development**
 
