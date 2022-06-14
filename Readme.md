@@ -2,13 +2,13 @@
 
  <img align="right" alt="GIF" src="https://github.com/soumyo19/soumyo19/blob/main/code.gif?raw=true" width="500" height="320" />
  
-- 🔭 I’m *doing* **Android development** in **Free Time**
+- 🔭 I’m *doing* **Android development** in my **Free Time**
 
 - 😽 I’m looking for Supportive Kind **Friends**
 
-- 🤝🏼 I’m looking to Connect with **More Developers!**
+- 🤝🏼 I’m looking forward to Connect with **More Developers!**
 
-- 📫 How to reach me?? **[Telegram - @soumyo19](https://t.me/soumyo19)**
+- 📫Soo, Umm.. How to reach me?? **[Telegram - @soumyo19](https://t.me/soumyo19)**
 
 - 👋🏼 I’m *currently* **studying** 🧑🏻‍🔬🙇🏻 or *working* on my **Computer** 👀
 
