@@ -6,6 +6,8 @@
 
 - 😽 Also Searching for Supportive Kind **Friends**
 
+- 🤓🤓 not your up to date Pro Developer, I'm Just an Enthusiast 🤓🤓
+
 - 🤝🏼 And Also looking forward to Connect with **More Developers!**
 
 - 📫Soo, Umm.. How to reach me?? **[Telegram - @soumyo19](https://t.me/soumyo19)**
