@@ -4,9 +4,9 @@
  
 - 🔭 I’m *doing* **Android development** in my **Free Time**
 
-- 😽 I’m looking for Supportive Kind **Friends**
+- 😽 Also Searching for Supportive Kind **Friends**
 
-- 🤝🏼 I’m looking forward to Connect with **More Developers!**
+- 🤝🏼 And Also looking forward to Connect with **More Developers!**
 
 - 📫Soo, Umm.. How to reach me?? **[Telegram - @soumyo19](https://t.me/soumyo19)**
 
